@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "sandalia",
+        "description": "sandalia verde",
+        "price": 300,
+        "thumbnail": "img1",
+        "code": "aZxY0102",
+        "stock": 15
+    },
+    {
+        "id": 2,
+        "title": "zapatilla",
+        "description": "zapatilla azul",
+        "price": 525,
+        "thumbnail": "img3",
+        "code": "aZxY0103",
+        "stock": 20
+    },
+    {
+        "id": 3,
+        "title": "ojota",
+        "description": "ojota amarilla",
+        "price": 175,
+        "thumbnail": "img4",
+        "code": "aZxY0104",
+        "stock": 17
+    },
+    {
+        "id": 4,
+        "title": "borcego",
+        "description": "borcego negro",
+        "price": 1120,
+        "thumbnail": "img5",
+        "code": "aZxY0105",
+        "stock": 56
+    },
+    {
+        "id": 5,
+        "title": "bota",
+        "description": "bota blanca",
+        "price": 840,
+        "thumbnail": "img6",
+        "code": "aZxY0106",
+        "stock": 11
+    }   
+]
